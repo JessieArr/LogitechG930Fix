@@ -6,6 +6,6 @@ So, I wrote this simple program to help. It is a small Windows application which
 
 It checks a couple default installation locations automatically, but if it can't find the configuration file in those locations, you can manually select it from a file browser window within the application.
 
-![Application Screenshot](https://imgur.com/xsl1SeS)
+![Application Screenshot](https://imgur.com/xsl1SeS.jpg)
 
 You can download and modify the source if you choose, or simply head over to the [Releases page](https://github.com/JessieArr/LogitechG930Fix/releases) to download a compiled executable if you trust me. :)
